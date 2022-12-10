@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/HanifHamidi-200/MARSHouse#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "uuid": "^3.3.2"
   }
 }
